@@ -1,9 +1,16 @@
+.body{
+  background-color:#ffaebd;
+}
+.body p{
+  font-family: monospace;
+}
 .title {
-  font-size: 10rem;
-
+  font-size: 6rem;
+  font-family: monospace;
 }
 .portfolio {
   display: flex;
+  margin-left: 5rem;
 }
 .item {
   max-width: 30rem;
